@@ -1,0 +1,9 @@
+C:\Users\Jhamil\source\repos\tienda\tienda\bin\Debug\tienda.exe.config
+C:\Users\Jhamil\source\repos\tienda\tienda\bin\Debug\tienda.exe
+C:\Users\Jhamil\source\repos\tienda\tienda\bin\Debug\tienda.pdb
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.csprojAssemblyReference.cache
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.Properties.Resources.resources
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.csproj.GenerateResource.cache
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.csproj.CoreCompileInputs.cache
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.exe
+C:\Users\Jhamil\source\repos\tienda\tienda\obj\Debug\tienda.pdb
